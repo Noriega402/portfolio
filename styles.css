@@ -1,1 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root{
+    /* DOCS */
+    --color-1: #42506B;
+    --color-2: #EF4B4C;
+    --color-3: #3E619B;
+    --color-4: #E9E9EB;
+    --black: #000;
 
+}
+.menu{
+    border: 1px solid blue;
+}
+.menu .menu__mobile{
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    align-self: center;
+    /* border: 1px solid green; */
+    margin-right: 1rem;
+}
