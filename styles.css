@@ -13,7 +13,7 @@
 
 }
 .menu{
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
 }
 .menu .menu__mobile{
     display: flex;
@@ -21,6 +21,7 @@
 }
 .logo{
     align-self: center;
-    /* border: 1px solid green; */
-    margin-right: 1rem;
+    margin-right: 1.2rem;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
 }
